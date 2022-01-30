@@ -1,0 +1,8 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 255 255" width="255" height="255">
+	<title>headstyle1</title>
+	<style>
+		.s0 { fill: #eee2c0 } 
+	</style>
+	<path id="head-1" class="s0" d="m127.5 77.2c35.4 0 64 28.7 64 64.1c0 35.3-28.6 64-64 64c-35.4 0-64-28.7-64-64c0-35.4 28.6-64.1 64-64.1z" />
+	<path id="head-2" class="s0" d="m127.5 77.2c35.4 0 64 28.7 64 64.1c0 35.3-28.6 80-64 80c-35.4 0-64-44.7-64-80c0-35.4 28.6-64.1 64-64.1z" />
+</svg>
